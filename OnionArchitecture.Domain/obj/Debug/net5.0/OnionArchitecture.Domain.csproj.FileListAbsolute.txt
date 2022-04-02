@@ -1,0 +1,12 @@
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Domain\bin\Debug\net5.0\OnionArchitecture.Domain.deps.json
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Domain\bin\Debug\net5.0\OnionArchitecture.Domain.dll
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Domain\bin\Debug\net5.0\ref\OnionArchitecture.Domain.dll
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Domain\bin\Debug\net5.0\OnionArchitecture.Domain.pdb
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Domain\obj\Debug\net5.0\OnionArchitecture.Domain.csproj.AssemblyReference.cache
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Domain\obj\Debug\net5.0\OnionArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Domain\obj\Debug\net5.0\OnionArchitecture.Domain.AssemblyInfoInputs.cache
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Domain\obj\Debug\net5.0\OnionArchitecture.Domain.AssemblyInfo.cs
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Domain\obj\Debug\net5.0\OnionArchitecture.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Domain\obj\Debug\net5.0\OnionArchitecture.Domain.dll
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Domain\obj\Debug\net5.0\ref\OnionArchitecture.Domain.dll
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Domain\obj\Debug\net5.0\OnionArchitecture.Domain.pdb

@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OnionArchitecture.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="T:OnionArchitecture.WebAPI.v1.AccountController">
+            <summary>
+            account controller
+            register,authentication,...
+            </summary>
+        </member>
+        <member name="T:OnionArchitecture.WebAPI.v1.CommentController">
+            <summary>
+            This api controller help us to do CRUD
+            </summary>
+        </member>
+        <member name="M:OnionArchitecture.WebAPI.v1.CommentController.#ctor(MediatR.IMediator)">
+            <summary>
+            Inject IMediator Service
+            </summary>
+            <param name="mediator"></param>
+        </member>
+        <member name="M:OnionArchitecture.WebAPI.v1.CommentController.GetById(System.Int64)">
+            <summary>
+            return specific comment
+            </summary>
+            <param name="id"> Comment id </param>
+            <returns></returns>
+        </member>
+        <member name="M:OnionArchitecture.WebAPI.v1.CommentController.GetAll">
+            <summary>
+            return list of all comments in database
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OnionArchitecture.WebAPI.v1.CommentController.Create(OnionArchitecture.Service.Features.CommentFeature.Commands.CreateCommentCommand)">
+            <summary>
+            add new comment  
+            </summary>
+            <param name="command">this opbject conrains "comment" object that it is an instance to add database</param>
+            <returns>return that inserted instance</returns>
+        </member>
+        <member name="M:OnionArchitecture.WebAPI.v1.CommentController.Update(System.Int64,OnionArchitecture.Service.Features.CommentFeature.Commands.UpdateCommentCommand)">
+            <summary>
+            update comment
+            </summary>
+            <param name="id">it is unique id that refer to the specific comment</param>
+            <param name="command">an instance that would be update</param>
+            <returns>return updated instance</returns>
+        </member>
+        <member name="M:OnionArchitecture.WebAPI.v1.CommentController.Delete(System.Int64)">
+            <summary>
+            delete specific comment
+            </summary>
+            <param name="id">it is unique id that refer to the specific comment</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,15 @@
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Infrastructure\bin\Debug\net5.0\OnionArchitecture.Infrastructure.deps.json
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Infrastructure\bin\Debug\net5.0\OnionArchitecture.Infrastructure.runtimeconfig.json
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Infrastructure\bin\Debug\net5.0\OnionArchitecture.Infrastructure.runtimeconfig.dev.json
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Infrastructure\bin\Debug\net5.0\OnionArchitecture.Infrastructure.dll
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Infrastructure\bin\Debug\net5.0\ref\OnionArchitecture.Infrastructure.dll
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Infrastructure\bin\Debug\net5.0\OnionArchitecture.Infrastructure.pdb
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Infrastructure\obj\Debug\net5.0\OnionArchitecture.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Infrastructure\obj\Debug\net5.0\OnionArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Infrastructure\obj\Debug\net5.0\OnionArchitecture.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Infrastructure\obj\Debug\net5.0\OnionArchitecture.Infrastructure.AssemblyInfo.cs
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Infrastructure\obj\Debug\net5.0\OnionArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Infrastructure\obj\Debug\net5.0\OnionArchitecture.Infrastructure.dll
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Infrastructure\obj\Debug\net5.0\ref\OnionArchitecture.Infrastructure.dll
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Infrastructure\obj\Debug\net5.0\OnionArchitecture.Infrastructure.pdb
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Infrastructure\obj\Debug\net5.0\OnionArchitecture.Infrastructure.genruntimeconfig.cache
