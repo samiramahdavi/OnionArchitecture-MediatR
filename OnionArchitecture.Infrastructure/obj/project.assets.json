@@ -8208,9 +8208,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Me\\CodeChallenge\\OnionArchitectureWebAPI\\OnionArchitecture\\OnionArchitecture.Infrastructure\\OnionArchitecture.Infrastructure.csproj",
-      "projectName": "OnionArchitecture.Infrastructure",
-      "projectPath": "D:\\Projects\\Me\\CodeChallenge\\OnionArchitectureWebAPI\\OnionArchitecture\\OnionArchitecture.Infrastructure\\OnionArchitecture.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Projects\\Me\\CodeChallenge\\OnionArchitectureWebAPI\\OnionArchitecture\\OnionArchitecture.Infrastructure\\OnionArchitecture.Contracts.csproj",
+      "projectName": "OnionArchitecture.Contracts",
+      "projectPath": "D:\\Projects\\Me\\CodeChallenge\\OnionArchitectureWebAPI\\OnionArchitecture\\OnionArchitecture.Infrastructure\\OnionArchitecture.Contracts.csproj",
       "packagesPath": "C:\\Users\\samir\\.nuget\\packages\\",
       "outputPath": "D:\\Projects\\Me\\CodeChallenge\\OnionArchitectureWebAPI\\OnionArchitecture\\OnionArchitecture.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",

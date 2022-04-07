@@ -1,6 +1,6 @@
 ﻿using Moq;
 using OnionArchitecture.Domain.Entities;
-using OnionArchitecture.Infrastructure.ViewModel_DTO.Comment;
+using OnionArchitecture.Contracts.ViewModel_DTO.Comment;
 using OnionArchitecture.Repository.Repository.Interface;
 using System;
 using System.Collections.Generic;

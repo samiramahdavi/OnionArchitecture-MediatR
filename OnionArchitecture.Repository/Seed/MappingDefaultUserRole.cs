@@ -1,10 +1,7 @@
 ﻿using OnionArchitecture.Domain.Constant;
 using OnionArchitecture.Domain.Identity;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace OnionArchitecture.Repository.Seed
 {

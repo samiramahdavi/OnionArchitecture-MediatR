@@ -2805,20 +2805,7 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "OnionArchitecture.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.15"
-        },
-        "compile": {
-          "bin/placeholder/OnionArchitecture.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/OnionArchitecture.Domain.dll": {}
-        }
-      },
-      "OnionArchitecture.Infrastructure/1.0.0": {
+      "OnionArchitecture.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
@@ -2831,10 +2818,23 @@
           "Swashbuckle.AspNetCore": "5.6.3"
         },
         "compile": {
-          "bin/placeholder/OnionArchitecture.Infrastructure.dll": {}
+          "bin/placeholder/OnionArchitecture.Contracts.dll": {}
         },
         "runtime": {
-          "bin/placeholder/OnionArchitecture.Infrastructure.dll": {}
+          "bin/placeholder/OnionArchitecture.Contracts.dll": {}
+        }
+      },
+      "OnionArchitecture.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.15"
+        },
+        "compile": {
+          "bin/placeholder/OnionArchitecture.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OnionArchitecture.Domain.dll": {}
         }
       },
       "OnionArchitecture.Repository/1.0.0": {
@@ -2869,7 +2869,7 @@
           "Microsoft.FeatureManagement.AspNetCore": "2.4.0",
           "MimeKit": "3.1.1",
           "Newtonsoft.Json": "13.0.1",
-          "OnionArchitecture.Infrastructure": "1.0.0",
+          "OnionArchitecture.Contracts": "1.0.0",
           "OnionArchitecture.Repository": "1.0.0"
         },
         "compile": {
@@ -9065,15 +9065,15 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "OnionArchitecture.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../OnionArchitecture.Infrastructure/OnionArchitecture.Contracts.csproj",
+      "msbuildProject": "../OnionArchitecture.Infrastructure/OnionArchitecture.Contracts.csproj"
+    },
     "OnionArchitecture.Domain/1.0.0": {
       "type": "project",
       "path": "../OnionArchitecture.Domain/OnionArchitecture.Domain.csproj",
       "msbuildProject": "../OnionArchitecture.Domain/OnionArchitecture.Domain.csproj"
-    },
-    "OnionArchitecture.Infrastructure/1.0.0": {
-      "type": "project",
-      "path": "../OnionArchitecture.Infrastructure/OnionArchitecture.Infrastructure.csproj",
-      "msbuildProject": "../OnionArchitecture.Infrastructure/OnionArchitecture.Infrastructure.csproj"
     },
     "OnionArchitecture.Repository/1.0.0": {
       "type": "project",
@@ -9089,7 +9089,6 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.EntityFrameworkCore.Design >= 5.0.15",
-      "OnionArchitecture.Infrastructure >= 1.0.0",
       "OnionArchitecture.Service >= 1.0.0"
     ]
   },
@@ -9127,9 +9126,6 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Projects\\Me\\CodeChallenge\\OnionArchitectureWebAPI\\OnionArchitecture\\OnionArchitecture.Infrastructure\\OnionArchitecture.Infrastructure.csproj": {
-              "projectPath": "D:\\Projects\\Me\\CodeChallenge\\OnionArchitectureWebAPI\\OnionArchitecture\\OnionArchitecture.Infrastructure\\OnionArchitecture.Infrastructure.csproj"
-            },
             "D:\\Projects\\Me\\CodeChallenge\\OnionArchitectureWebAPI\\OnionArchitecture\\OnionArchitecture.Service\\OnionArchitecture.Service.csproj": {
               "projectPath": "D:\\Projects\\Me\\CodeChallenge\\OnionArchitectureWebAPI\\OnionArchitecture\\OnionArchitecture.Service\\OnionArchitecture.Service.csproj"
             }

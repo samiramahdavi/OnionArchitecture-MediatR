@@ -16,7 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OnionArchitecture.Infrastructure\OnionArchitecture.Infrastructure.csproj" />
     <ProjectReference Include="..\OnionArchitecture.Service\OnionArchitecture.Service.csproj" />
   </ItemGroup>
 

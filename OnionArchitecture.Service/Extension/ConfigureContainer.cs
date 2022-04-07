@@ -1,7 +1,5 @@
 ﻿using Microsoft.AspNetCore.Builder;
-using Microsoft.Extensions.Logging;
 using OnionArchitecture.Service.Middleware;
-using Serilog;
 
 namespace OnionArchitecture.Infrastructure.Extension
 {

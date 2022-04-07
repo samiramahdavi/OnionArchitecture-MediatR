@@ -1,5 +1,5 @@
 ﻿using OnionArchitecture.Domain.Common;
-using OnionArchitecture.Domain.Identity.Authentication;
+using OnionArchitecture.Contracts.ViewModel_DTO.Authentication;
 using System.Threading.Tasks;
 
 namespace OnionArchitecture.Service.Interface

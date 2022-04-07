@@ -1,11 +1,6 @@
 ﻿using AutoMapper;
 using OnionArchitecture.Domain.Entities;
-using OnionArchitecture.Infrastructure.ViewModel_DTO.Comment;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using OnionArchitecture.Contracts.ViewModel_DTO.Comment;
 
 namespace OnionArchitecture.Service.Mapper
 {

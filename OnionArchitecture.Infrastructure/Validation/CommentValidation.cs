@@ -1,13 +1,7 @@
-﻿
-using FluentValidation;
-using OnionArchitecture.Infrastructure.ViewModel_DTO.Comment;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using FluentValidation;
+using OnionArchitecture.Contracts.ViewModel_DTO.Comment;
 
-namespace OnionArchitecture.Infrastructure.Validation
+namespace OnionArchitecture.Contracts.Validation
 {
     public class CommentValidation : AbstractValidator<CommentDto>
     {

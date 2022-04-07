@@ -1,14 +1,12 @@
 ﻿using AutoMapper;
 using Moq;
-using OnionArchitecture.Infrastructure.ViewModel_DTO.Comment;
+using OnionArchitecture.Contracts.ViewModel_DTO.Comment;
 using OnionArchitecture.Repository.Repository.Interface;
 using OnionArchitecture.Service.Features.CommentFeature.Queries;
 using OnionArchitecture.Service.Mapper;
 using Shouldly;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using Xunit;

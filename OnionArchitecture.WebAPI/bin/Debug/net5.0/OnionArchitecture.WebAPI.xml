@@ -29,14 +29,14 @@
             </summary>
             <param name="accountService"></param>
         </member>
-        <member name="M:OnionArchitecture.WebAPI.v1.AccountController.AuthenticateAsync(OnionArchitecture.Domain.Identity.Authentication.AuthenticationRequest)">
+        <member name="M:OnionArchitecture.WebAPI.v1.AccountController.AuthenticateAsync(OnionArchitecture.Contracts.ViewModel_DTO.Authentication.AuthenticationRequest)">
             <summary>
             Authenticate a user
             </summary>
             <param name="request">It contains an email and password to authenticate</param>
             <returns></returns>
         </member>
-        <member name="M:OnionArchitecture.WebAPI.v1.AccountController.RegisterAsync(OnionArchitecture.Domain.Identity.Authentication.RegisterRequest)">
+        <member name="M:OnionArchitecture.WebAPI.v1.AccountController.RegisterAsync(OnionArchitecture.Contracts.ViewModel_DTO.Authentication.RegisterRequest)">
             <summary>
             Register a new user
             </summary>
@@ -51,14 +51,14 @@
             <param name="code"></param>
             <returns></returns>
         </member>
-        <member name="M:OnionArchitecture.WebAPI.v1.AccountController.ForgotPassword(OnionArchitecture.Domain.Identity.Authentication.ForgotPasswordRequest)">
+        <member name="M:OnionArchitecture.WebAPI.v1.AccountController.ForgotPassword(OnionArchitecture.Contracts.ViewModel_DTO.Authentication.ForgotPasswordRequest)">
             <summary>
             If forgot your password, this method emails a link to a recovery password
             </summary>
             <param name="model"></param>
             <returns></returns>
         </member>
-        <member name="M:OnionArchitecture.WebAPI.v1.AccountController.ResetPassword(OnionArchitecture.Domain.Identity.Authentication.ResetPasswordRequest)">
+        <member name="M:OnionArchitecture.WebAPI.v1.AccountController.ResetPassword(OnionArchitecture.Contracts.ViewModel_DTO.Authentication.ResetPasswordRequest)">
             <summary>
             Reaset your password
             </summary>

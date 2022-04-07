@@ -1,11 +1,8 @@
 ﻿using MediatR;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using OnionArchitecture.Service.Features.CommentFeature.Commands;
 using OnionArchitecture.Service.Features.CommentFeature.Queries;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 
 namespace OnionArchitecture.WebAPI.v1

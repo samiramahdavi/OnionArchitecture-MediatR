@@ -2,10 +2,10 @@ D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArch
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Service\bin\Debug\net5.0\OnionArchitecture.Service.dll
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Service\bin\Debug\net5.0\ref\OnionArchitecture.Service.dll
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Service\bin\Debug\net5.0\OnionArchitecture.Service.pdb
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Service\bin\Debug\net5.0\OnionArchitecture.Contracts.dll
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Service\bin\Debug\net5.0\OnionArchitecture.Domain.dll
-D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Service\bin\Debug\net5.0\OnionArchitecture.Infrastructure.dll
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Service\bin\Debug\net5.0\OnionArchitecture.Repository.dll
-D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Service\bin\Debug\net5.0\OnionArchitecture.Infrastructure.pdb
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Service\bin\Debug\net5.0\OnionArchitecture.Contracts.pdb
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Service\bin\Debug\net5.0\OnionArchitecture.Repository.pdb
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Service\bin\Debug\net5.0\OnionArchitecture.Domain.pdb
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.Service\obj\Debug\net5.0\OnionArchitecture.Service.csproj.AssemblyReference.cache

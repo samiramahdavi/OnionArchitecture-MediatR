@@ -1,11 +1,7 @@
 ﻿using OnionArchitecture.Domain.Entities;
 using OnionArchitecture.Repository.Context;
 using OnionArchitecture.Repository.Repository.Interface;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OnionArchitecture.Repository.Repository.Implementation
 {

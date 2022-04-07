@@ -1,12 +1,8 @@
 ﻿using AutoMapper;
 using MediatR;
-using OnionArchitecture.Domain.Entities;
-using OnionArchitecture.Infrastructure.ViewModel_DTO.Comment;
-using OnionArchitecture.Repository.Repository.Implementation;
+using OnionArchitecture.Contracts.ViewModel_DTO.Comment;
 using OnionArchitecture.Repository.Repository.Interface;
-using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 

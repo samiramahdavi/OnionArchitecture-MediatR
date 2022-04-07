@@ -14,11 +14,6 @@ using AutoMapper;
 using OnionArchitecture.Domain.Setting;
 using OnionArchitecture.Service.Mapper;
 using FluentValidation.AspNetCore;
-using FluentValidation;
-using OnionArchitecture.Infrastructure.ViewModel_DTO.Comment;
-using OnionArchitecture.Infrastructure.Validation;
-using OnionArchitecture.Infrastructure.Validation.Authentication;
-using OnionArchitecture.Domain.Identity.Authentication;
 using MediatR;
 
 namespace OnionArchitecture.Infrastructure.Extension

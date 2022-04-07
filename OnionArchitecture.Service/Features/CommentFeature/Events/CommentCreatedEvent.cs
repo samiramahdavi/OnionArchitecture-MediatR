@@ -1,12 +1,7 @@
-﻿using AutoMapper;
-using MediatR;
+﻿using MediatR;
 using OnionArchitecture.Domain.Setting;
-using OnionArchitecture.Infrastructure.ViewModel_DTO.Comment;
+using OnionArchitecture.Contracts.ViewModel_DTO.Comment;
 using OnionArchitecture.Service.Interface;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 

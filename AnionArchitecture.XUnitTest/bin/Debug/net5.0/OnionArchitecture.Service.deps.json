@@ -19,7 +19,7 @@
           "Microsoft.FeatureManagement.AspNetCore": "2.4.0",
           "MimeKit": "3.1.1",
           "Newtonsoft.Json": "13.0.1",
-          "OnionArchitecture.Infrastructure": "1.0.0",
+          "OnionArchitecture.Contracts": "1.0.0",
           "OnionArchitecture.Repository": "1.0.0"
         },
         "runtime": {
@@ -1819,15 +1819,7 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
-      "OnionArchitecture.Domain/1.0.0": {
-        "dependencies": {
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.15"
-        },
-        "runtime": {
-          "OnionArchitecture.Domain.dll": {}
-        }
-      },
-      "OnionArchitecture.Infrastructure/1.0.0": {
+      "OnionArchitecture.Contracts/1.0.0": {
         "dependencies": {
           "FluentValidation.AspNetCore": "10.4.0",
           "Microsoft.AspNetCore.Mvc.Versioning": "5.0.0",
@@ -1838,7 +1830,15 @@
           "Swashbuckle.AspNetCore": "5.6.3"
         },
         "runtime": {
-          "OnionArchitecture.Infrastructure.dll": {}
+          "OnionArchitecture.Contracts.dll": {}
+        }
+      },
+      "OnionArchitecture.Domain/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.15"
+        },
+        "runtime": {
+          "OnionArchitecture.Domain.dll": {}
         }
       },
       "OnionArchitecture.Repository/1.0.0": {
@@ -3114,12 +3114,12 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
-    "OnionArchitecture.Domain/1.0.0": {
+    "OnionArchitecture.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "OnionArchitecture.Infrastructure/1.0.0": {
+    "OnionArchitecture.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

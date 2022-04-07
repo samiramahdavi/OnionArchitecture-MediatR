@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace OnionArchitecture.Domain.Identity.Authentication
+namespace OnionArchitecture.Contracts.ViewModel_DTO.Authentication
 {
     public class AuthenticationResponse
     {

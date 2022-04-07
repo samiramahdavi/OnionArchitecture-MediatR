@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using OnionArchitecture.Domain.Identity.Authentication;
+using OnionArchitecture.Contracts.ViewModel_DTO.Authentication;
 using OnionArchitecture.Service.Interface;
 using System.Threading.Tasks;
 

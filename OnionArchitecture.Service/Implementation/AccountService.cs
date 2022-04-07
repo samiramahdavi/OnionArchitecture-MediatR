@@ -6,7 +6,7 @@ using Microsoft.IdentityModel.Tokens;
 using OnionArchitecture.Domain.Common;
 using OnionArchitecture.Domain.Enum;
 using OnionArchitecture.Domain.Identity;
-using OnionArchitecture.Domain.Identity.Authentication;
+using OnionArchitecture.Contracts.ViewModel_DTO.Authentication;
 using OnionArchitecture.Domain.Setting;
 using OnionArchitecture.Service.Exceptions;
 using OnionArchitecture.Service.Interface;

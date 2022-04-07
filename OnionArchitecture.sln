@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnionArchitecture.Service",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnionArchitecture.Domain", "OnionArchitecture.Domain\OnionArchitecture.Domain.csproj", "{5145EEBF-6D5C-43A5-936F-3D799544EC76}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnionArchitecture.Infrastructure", "OnionArchitecture.Infrastructure\OnionArchitecture.Infrastructure.csproj", "{94062BF1-42D5-4A31-8BF4-C94A83B0BC87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnionArchitecture.Contracts", "OnionArchitecture.Infrastructure\OnionArchitecture.Contracts.csproj", "{94062BF1-42D5-4A31-8BF4-C94A83B0BC87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnionArchitecture.XUnitTest", "AnionArchitecture.XUnitTest\AnionArchitecture.XUnitTest.csproj", "{BBB0DC6F-EBAF-437A-AEB5-B1A2A42A4154}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnionArchitecture.XUnitTest", "AnionArchitecture.XUnitTest\AnionArchitecture.XUnitTest.csproj", "{BBB0DC6F-EBAF-437A-AEB5-B1A2A42A4154}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

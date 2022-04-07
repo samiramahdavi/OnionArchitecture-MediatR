@@ -4,11 +4,66 @@
         <name>OnionArchitecture.WebAPI</name>
     </assembly>
     <members>
+        <member name="M:OnionArchitecture.WebAPI.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:OnionArchitecture.WebAPI.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment,Microsoft.Extensions.Logging.ILoggerFactory)">
+            <summary>
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+            <param name="log"></param>
+        </member>
         <member name="T:OnionArchitecture.WebAPI.v1.AccountController">
             <summary>
-            account controller
-            register,authentication,...
+            account controller help us to register new user,authenticate a user,...
             </summary>
+        </member>
+        <member name="M:OnionArchitecture.WebAPI.v1.AccountController.#ctor(OnionArchitecture.Service.Interface.IAccountService)">
+            <summary>
+            Inject a account service
+            </summary>
+            <param name="accountService"></param>
+        </member>
+        <member name="M:OnionArchitecture.WebAPI.v1.AccountController.AuthenticateAsync(OnionArchitecture.Contracts.ViewModel_DTO.Authentication.AuthenticationRequest)">
+            <summary>
+            Authenticate a user
+            </summary>
+            <param name="request">It contains an email and password to authenticate</param>
+            <returns></returns>
+        </member>
+        <member name="M:OnionArchitecture.WebAPI.v1.AccountController.RegisterAsync(OnionArchitecture.Contracts.ViewModel_DTO.Authentication.RegisterRequest)">
+            <summary>
+            Register a new user
+            </summary>
+            <param name="request">It contains the data you need to register </param>
+            <returns></returns>
+        </member>
+        <member name="M:OnionArchitecture.WebAPI.v1.AccountController.ConfirmEmailAsync(System.String,System.String)">
+            <summary>
+            After registering, you need to confirm your email address
+            </summary>
+            <param name="userId"></param>
+            <param name="code"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OnionArchitecture.WebAPI.v1.AccountController.ForgotPassword(OnionArchitecture.Contracts.ViewModel_DTO.Authentication.ForgotPasswordRequest)">
+            <summary>
+            If forgot your password, this method emails a link to a recovery password
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OnionArchitecture.WebAPI.v1.AccountController.ResetPassword(OnionArchitecture.Contracts.ViewModel_DTO.Authentication.ResetPasswordRequest)">
+            <summary>
+            Reaset your password
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
         </member>
         <member name="T:OnionArchitecture.WebAPI.v1.CommentController">
             <summary>

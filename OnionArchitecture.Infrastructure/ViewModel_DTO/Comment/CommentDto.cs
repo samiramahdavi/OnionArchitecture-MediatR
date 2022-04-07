@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OnionArchitecture.Infrastructure.ViewModel_DTO.Comment
+namespace OnionArchitecture.Contracts.ViewModel_DTO.Comment
 {
     public class CommentDto
     {

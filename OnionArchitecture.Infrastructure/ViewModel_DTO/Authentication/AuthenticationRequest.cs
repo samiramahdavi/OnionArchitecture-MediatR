@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OnionArchitecture.Domain.Identity.Authentication
+namespace OnionArchitecture.Contracts.ViewModel_DTO.Authentication
 {
     public class AuthenticationRequest
     {

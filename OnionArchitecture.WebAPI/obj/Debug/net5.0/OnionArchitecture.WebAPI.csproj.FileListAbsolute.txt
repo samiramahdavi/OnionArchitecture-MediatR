@@ -11,6 +11,7 @@ D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArch
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\AutoMapper.dll
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\FluentValidation.dll
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\Humanizer.dll
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\MailKit.dll
@@ -84,12 +85,12 @@ D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArch
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\OnionArchitecture.Contracts.dll
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\OnionArchitecture.Domain.dll
-D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\OnionArchitecture.Infrastructure.dll
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\OnionArchitecture.Repository.dll
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\OnionArchitecture.Service.dll
-D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\OnionArchitecture.Infrastructure.pdb
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\OnionArchitecture.Service.pdb
+D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\OnionArchitecture.Contracts.pdb
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\OnionArchitecture.Domain.pdb
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\OnionArchitecture.Repository.pdb
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\obj\Debug\net5.0\OnionArchitecture.WebAPI.csproj.AssemblyReference.cache
@@ -108,4 +109,3 @@ D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArch
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\obj\Debug\net5.0\ref\OnionArchitecture.WebAPI.dll
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\obj\Debug\net5.0\OnionArchitecture.WebAPI.pdb
 D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\obj\Debug\net5.0\OnionArchitecture.WebAPI.genruntimeconfig.cache
-D:\Projects\Me\CodeChallenge\OnionArchitectureWebAPI\OnionArchitecture\OnionArchitecture.WebAPI\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
