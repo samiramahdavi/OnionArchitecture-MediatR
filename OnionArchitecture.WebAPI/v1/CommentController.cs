@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace OnionArchitecture.WebAPI.v1
 {
     /// <summary>
-    /// This api controller help us to do CRUD
+    /// This api controller help us to do CRUD on comment table
     /// </summary>
     [ApiController]
     [Route("api/v{version:apiversion}/[controller]")]

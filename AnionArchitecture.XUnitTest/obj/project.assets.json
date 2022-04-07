@@ -12943,8 +12943,8 @@
     },
     "OnionArchitecture.Contracts/1.0.0": {
       "type": "project",
-      "path": "../OnionArchitecture.Infrastructure/OnionArchitecture.Contracts.csproj",
-      "msbuildProject": "../OnionArchitecture.Infrastructure/OnionArchitecture.Contracts.csproj"
+      "path": "../OnionArchitecture.Contracts/OnionArchitecture.Contracts.csproj",
+      "msbuildProject": "../OnionArchitecture.Contracts/OnionArchitecture.Contracts.csproj"
     },
     "OnionArchitecture.Domain/1.0.0": {
       "type": "project",

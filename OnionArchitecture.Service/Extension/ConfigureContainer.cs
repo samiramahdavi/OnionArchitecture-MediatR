@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Builder;
 using OnionArchitecture.Service.Middleware;
 
-namespace OnionArchitecture.Infrastructure.Extension
+namespace OnionArchitecture.Service.Extension
 {
     public static class ConfigureContainer
     {

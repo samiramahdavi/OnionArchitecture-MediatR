@@ -8985,8 +8985,8 @@
     },
     "OnionArchitecture.Contracts/1.0.0": {
       "type": "project",
-      "path": "../OnionArchitecture.Infrastructure/OnionArchitecture.Contracts.csproj",
-      "msbuildProject": "../OnionArchitecture.Infrastructure/OnionArchitecture.Contracts.csproj"
+      "path": "../OnionArchitecture.Contracts/OnionArchitecture.Contracts.csproj",
+      "msbuildProject": "../OnionArchitecture.Contracts/OnionArchitecture.Contracts.csproj"
     },
     "OnionArchitecture.Domain/1.0.0": {
       "type": "project",
@@ -9050,8 +9050,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Projects\\Me\\CodeChallenge\\OnionArchitectureWebAPI\\OnionArchitecture\\OnionArchitecture.Infrastructure\\OnionArchitecture.Contracts.csproj": {
-              "projectPath": "D:\\Projects\\Me\\CodeChallenge\\OnionArchitectureWebAPI\\OnionArchitecture\\OnionArchitecture.Infrastructure\\OnionArchitecture.Contracts.csproj"
+            "D:\\Projects\\Me\\CodeChallenge\\OnionArchitectureWebAPI\\OnionArchitecture\\OnionArchitecture.Contracts\\OnionArchitecture.Contracts.csproj": {
+              "projectPath": "D:\\Projects\\Me\\CodeChallenge\\OnionArchitectureWebAPI\\OnionArchitecture\\OnionArchitecture.Contracts\\OnionArchitecture.Contracts.csproj"
             },
             "D:\\Projects\\Me\\CodeChallenge\\OnionArchitectureWebAPI\\OnionArchitecture\\OnionArchitecture.Repository\\OnionArchitecture.Repository.csproj": {
               "projectPath": "D:\\Projects\\Me\\CodeChallenge\\OnionArchitectureWebAPI\\OnionArchitecture\\OnionArchitecture.Repository\\OnionArchitecture.Repository.csproj"

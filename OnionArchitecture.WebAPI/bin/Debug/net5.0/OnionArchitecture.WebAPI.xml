@@ -67,7 +67,7 @@
         </member>
         <member name="T:OnionArchitecture.WebAPI.v1.CommentController">
             <summary>
-            This api controller help us to do CRUD
+            This api controller help us to do CRUD on comment table
             </summary>
         </member>
         <member name="M:OnionArchitecture.WebAPI.v1.CommentController.#ctor(MediatR.IMediator)">

@@ -13,7 +13,7 @@ using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("OnionArchitecture.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=nul" +
     "l", "D:\\Projects\\Me\\CodeChallenge\\OnionArchitectureWebAPI\\OnionArchitecture\\OnionArchi" +
-    "tecture.Infrastructure", "OnionArchitecture.Contracts.csproj", "0")]
+    "tecture.Contracts", "OnionArchitecture.Contracts.csproj", "0")]
 [assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("OnionArchitecture.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "D:\\Projects\\Me\\CodeChallenge\\OnionArchitectureWebAPI\\OnionArchitecture\\OnionArchi" +
     "tecture.Domain", "OnionArchitecture.Domain.csproj", "0")]
 [assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("OnionArchitecture.Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=nu" +

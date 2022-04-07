@@ -1,19 +1,15 @@
 using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.FeatureManagement;
-using Microsoft.OpenApi.Models;
-using OnionArchitecture.Infrastructure.Extension;
 using OnionArchitecture.Service.Dependency;
-using OnionArchitecture.Service.Middleware;
 using Serilog;
 using System.IO;
+using OnionArchitecture.Service.Extension;
 
 namespace OnionArchitecture.WebAPI
 {

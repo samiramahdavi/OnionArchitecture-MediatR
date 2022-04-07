@@ -16,7 +16,7 @@ using OnionArchitecture.Service.Mapper;
 using FluentValidation.AspNetCore;
 using MediatR;
 
-namespace OnionArchitecture.Infrastructure.Extension
+namespace OnionArchitecture.Service.Extension
 {
     public static class ConfigureServiceContainer
     {
